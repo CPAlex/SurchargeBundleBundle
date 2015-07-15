@@ -2,4 +2,3 @@ surchargebundle_controller:
     resource: "@CPAlexSurchargeBundleBundle/Controller/ExerciseController.php"
     type: annotation
     prefix: /
-	
