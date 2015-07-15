@@ -1,0 +1,9 @@
+surchargebundle_controller:
+    resource: "@CPAlexSurchargeBundleBundle/Controller/SurchargeBundleController.php"
+    type: annotation
+    prefix: /
+	
+exercise_controller:
+    resource: "@AlexSurchargeBundleBundle/Controller/ExerciseController.php"
+    type: annotation
+    prefix: /
